@@ -1,0 +1,26 @@
+# machine learning
+#Keras==2.0.6
+# use my branch untill https://github.com/fchollet/keras/pull/7613 is accepted
+https://github.com/wassname/keras/archive/patch-4.zip
+# keras contrib
+https://github.com/farizrahman4u/keras-contrib/archive/c4d1a617461b0a4e29ec087de562032d47d03244.zip
+h5py==2.7.0
+tensorflow-gpu==1.2.1
+scikit-image==0.13.0
+scikit-learn==0.18.2
+# numeric and plotting
+pandas==0.20.3
+numpy==1.13.1
+matplotlib
+seaborn==0.8
+scipy==0.19.1
+tqdm==4.15.0
+arrow==0.10.0
+# for download
+boto3==1.4.5
+# for process
+# gdal2, needs to be installed another way
+geopandas==0.2.1
+rasterio==0.36.0
+Fiona==1.7.8
+Shapely==1.5.17
